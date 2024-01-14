@@ -9,5 +9,6 @@ age = input("Enter your age: ")
 # Convert the age input to an integer
 age = int(age)
 
+
 # Print a personalized message
 print(f"Hello, {name}! You are {age} years old.")
