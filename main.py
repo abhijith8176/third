@@ -4,7 +4,7 @@
 name = input("Enter your name: ")
 
 # Prompt the user for their age
-age = input("Enter your age: ")
+age = input("Enter your mobile no: ")
 
 # Convert the age input to an integer
 age = int(age)

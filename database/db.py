@@ -7,7 +7,7 @@ def fibonacci_sequence(n):
 
     return fib_sequence
 
-# Prompt the user for the number of terms in the Fibonacci sequence
+# Prompt the user for the number of terms in the Fibonacci sequence is sequence
 num_terms = int(input("Enter the number of Fibonacci terms to generate: "))
 
 # Generate and print the Fibonacci sequence
