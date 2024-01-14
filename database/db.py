@@ -11,3 +11,5 @@ num_terms = int(input("Enter the number of Fibonacci terms to generate: "))
 # Generate and print the Fibonacci sequence
 result_sequence = fibonacci_sequence(num_terms)
 print("Fibonacci Sequence:", result_sequence)
+print("Fibonacci Sequence:", result_sequence)
+
